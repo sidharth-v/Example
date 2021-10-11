@@ -1,3 +1,3 @@
 # Example
 
-__This is a sample readme file.__
+_This is a sample readme file._
